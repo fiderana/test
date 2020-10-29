@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1387px" height="1143px" viewBox="0 0 1387 1143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-content-primary.svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Librairie@2x" transform="translate(-33.000000, -561.000000)">
+            <g id="icon-content-primary.svg" transform="translate(15.000000, 565.000000)">
+                <circle id="Oval-2" stroke="#E5702B" stroke-width="8" cx="45" cy="20" r="20"></circle>
+                <circle id="Oval-2-Copy-3" fill="#B71D43" fill-rule="evenodd" cx="81" cy="88" r="8"></circle>
+                <polygon id="Rectangle-9-Copy" fill="#BA99BA" fill-rule="evenodd" transform="translate(34.766399, 438.432292) rotate(-210.000000) translate(-34.766399, -438.432292) " points="9.76639857 413.432292 59.7663986 428.300042 24.4699293 463.432292"></polygon>
+                <polygon id="Rectangle-9-Copy-8" fill="#719B77" fill-rule="evenodd" transform="translate(65.361092, 933.361092) rotate(-165.000000) translate(-65.361092, -933.361092) " points="46.2868403 914.28684 84.4353447 925.630489 57.5051944 952.435345"></polygon>
+                <polygon id="Rectangle-9-Copy-4" fill="#F6BF32" fill-rule="evenodd" opacity="0.900000036" transform="translate(1380.554447, 202.097289) rotate(-273.000000) translate(-1380.554447, -202.097289) " points="1355.55445 177.097289 1405.55445 191.965039 1370.25798 227.097289"></polygon>
+                <polygon id="Rectangle-9-Copy-3" fill="#4CA6D5" fill-rule="evenodd" transform="translate(1380.644648, 1111.644648) rotate(-154.000000) translate(-1380.644648, -1111.644648) " points="1360.14465 1091.14465 1401.14465 1103.3362 1372.20154 1132.14465"></polygon>
+                <circle id="Oval-2-Copy" stroke="#9CB7C1" stroke-width="8" cx="1340.5" cy="605.042841" r="17.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

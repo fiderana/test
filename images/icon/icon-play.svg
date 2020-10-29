@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="178px" viewBox="0 0 178 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="60" cy="60" r="60"></circle>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fiche-média-Modèle" transform="translate(-991.000000, -3244.000000)">
+            <g id="Group-3" transform="translate(1020.000000, 3273.000000)">
+                <g id="Oval" opacity="0.5">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M46.4193722,52.1648353 L69.862228,47.4044985 C70.9447055,47.1846892 72.0004176,47.8840199 72.2202269,48.9664975 C72.2817426,49.2694388 72.2721985,49.5825162 72.1923439,49.8811479 L66.2419229,72.1339194 C65.9565847,73.2009976 64.8602347,73.8347231 63.7931564,73.549385 C63.4536643,73.4586043 63.1440848,73.279974 62.8955933,73.0314825 L45.4031586,55.5390478 C44.62211,54.7579993 44.62211,53.4916693 45.4031586,52.7106207 C45.6809427,52.4328367 46.0343834,52.2430116 46.4193722,52.1648353 Z" id="Rectangle-3" fill="#FFFFFF" transform="translate(58.538800, 60.490935) rotate(-315.000000) translate(-58.538800, -60.490935) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

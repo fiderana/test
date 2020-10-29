@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1328px" height="987px" viewBox="0 0 1328 987" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-author-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Auteur" transform="translate(-64.000000, -615.000000)">
+            <g id="icon-author-bg" transform="translate(68.000000, 615.000000)">
+                <circle id="Oval-2" stroke="#E5702B" stroke-width="8" cx="26" cy="58" r="26"></circle>
+                <circle id="Oval-2-Copy-3" fill="#B71D43" fill-rule="evenodd" cx="66" cy="130" r="8"></circle>
+                <polygon id="Rectangle-9-Copy-4" fill="#F6BF32" fill-rule="evenodd" opacity="0.900000036" transform="translate(1269.054447, 32.054447) rotate(-273.000000) translate(-1269.054447, -32.054447) " points="1238.55445 1.55444748 1299.55445 19.6931024 1256.49275 62.5544475"></polygon>
+                <polygon id="Rectangle-9-Copy" fill="#BA99BA" fill-rule="evenodd" transform="translate(73.665893, 522.665893) rotate(-210.000000) translate(-73.665893, -522.665893) " points="42.4322916 491.432292 104.899494 510.007227 60.8020603 553.899494"></polygon>
+                <polygon id="Rectangle-9-Copy-3" fill="#4CA6D5" fill-rule="evenodd" transform="translate(1304.023057, 954.228066) rotate(-154.000000) translate(-1304.023057, -954.228066) " points="1279.8668 930.07181 1328.17931 944.437777 1294.07409 978.384321"></polygon>
+                <polygon id="Rectangle-9-Copy-8" fill="#719B77" fill-rule="evenodd" transform="translate(25.361092, 865.361092) rotate(-165.000000) translate(-25.361092, -865.361092) " points="6.28684035 846.28684 44.4353447 857.630489 17.5051944 884.435345"></polygon>
+                <circle id="Oval-2-Copy" stroke="#9CB7C1" stroke-width="8" cx="1227.5" cy="483.5" r="21.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
